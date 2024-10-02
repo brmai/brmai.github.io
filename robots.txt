@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brmai.github.io/bfW/sitemap.bfW.gz
